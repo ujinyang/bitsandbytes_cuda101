@@ -2,15 +2,11 @@
 
 1. runtime environment : ubunut linux 18.04 x64
 
-# install
+# install ( from old packages )
 ```
-pip install git+https://github.com/ujinyang/bitsandbytes_cuda101.git
+pip install https://files.pythonhosted.org/packages/64/f4/a8dc04d97e67a7ed694712185650ff30ae2e0c0957ffe20d55d4501a18db/bitsandbytes-cuda101-0.26.0.tar.gz
 ```
-
-# or
-# download & install
+# or install ( from this url )
 ```
-git clone https://github.com/ujinyang/bitsandbytes_cuda101.git
-cd bitsandbytes_cuda101
-python3 setup.py install
+pip install https://raw.githubusercontent.com/ujinyang/bitsandbytes_cuda101/main/dist/bitsandbytes-cuda101-0.26.0.tar.gz
 ```
