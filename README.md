@@ -9,4 +9,6 @@ pip install https://files.pythonhosted.org/packages/64/f4/a8dc04d97e67a7ed694712
 # or install ( from this url )
 ```
 pip install https://raw.githubusercontent.com/ujinyang/bitsandbytes_cuda101/main/dist/bitsandbytes-cuda101-0.26.0.tar.gz
+
+pip install https://raw.githubusercontent.com/ujinyang/bitsandbytes_cuda101/main/dist/bitsandbytes-0.32.2.tar.gz
 ```
