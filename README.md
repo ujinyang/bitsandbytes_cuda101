@@ -1,5 +1,7 @@
 # bitsandbytes_cuda101
 
+1. runtime environment : ubunut linux 18.04 x64
+
 # install
 ```
 pip install git+https://github.com/ujinyang/bitsandbytes_cuda101.git
