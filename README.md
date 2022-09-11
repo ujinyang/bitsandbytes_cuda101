@@ -5,13 +5,13 @@
 
 # install
 ```
-# pypi 저장소에서 복사해온 버전 ( 0.26.0 )
+# pypi 저장소에서 복사해온 버전 ( 0.26.0 / 동작안함 )
 pip install https://raw.githubusercontent.com/ujinyang/bitsandbytes_cuda101/main/dist/bitsandbytes_cuda101-0.26.0-py3-none-any.whl
 pip install https://raw.githubusercontent.com/ujinyang/bitsandbytes_cuda101/main/dist/bitsandbytes-cuda101-0.26.0.tar.gz
 
-# 직접 컴파일한 최신 버전 ( 0.32.2 )
-pip install https://raw.githubusercontent.com/ujinyang/bitsandbytes_cuda101/main/dist/bitsandbytes-0.32.2-py3-none-any.whl
-pip install https://raw.githubusercontent.com/ujinyang/bitsandbytes_cuda101/main/dist/bitsandbytes-0.32.2.tar.gz
+# 직접 컴파일한 버전 ( 0.26.0 / 동작 )
+pip install https://raw.githubusercontent.com/ujinyang/bitsandbytes_cuda101/main/dist/bitsandbytes_cuda10.1.243-0.26.0-py3-none-any.whl
+pip install https://raw.githubusercontent.com/ujinyang/bitsandbytes_cuda101/main/dist/bitsandbytes-cuda10.1.243-0.26.0.tar.gz
 ```
 # or install ( from google 검색으로 찾음 )
 ```
